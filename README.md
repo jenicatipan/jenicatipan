@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi! I am Jenica Tipan ✨
 
-<!--
-**jenicatipan/jenicatipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 💻 2nd year BSIT Student at Laguna State Polytechnic University 
+- 🪶 Currently at the beginner level in Python, C#, and Java
+- 🍀 Aspiring to become a skilled Web and Mobile Application Developer as well as a Game Developer
+- ⚡ Interests: Software Development, Game Development, and UI/UX Design 
 
-Here are some ideas to get you started:
+## 💡 Skills 
+- 💠 Languages: Python, C#, Java
+- 💠 Frameworks/Tools: Git, Github, Visual Studio, Eclipse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Current Projects
+- 📓 Learning Git and Github 
+- 🔍 Exploring Python and Java through coding exercises 
+
+## 🤝 Connect with Me
+- 📩 Email: nicatipan@gmail.com
+
+
+## 
+_"Great things are done by a series of small things brought together" - Vincent Van Gogh_ 
