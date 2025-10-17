@@ -8,7 +8,7 @@
 
 ## 💡 Skills 
 - 💠 Languages: Python, C#, Java
-- 💠 Frameworks/Tools: Git, Github, Visual Studio, Eclipse
+- 💠 Frameworks/Tools: Git, Github, Flask, Flutter
 
 ## 📝 Current Projects
 - 📓 Learning Git and Github 
