@@ -4,7 +4,7 @@
 - 💻 2nd year BSIT Student at Laguna State Polytechnic University 
 - 🪶 Currently at the beginner level in Python, C#, and Java
 - 🍀 Aspiring to become a skilled Web and Mobile Application Developer as well as a Game Developer
-- ⚡ Interests: Software Development, Game Development, Cybersecurity, and UI/UX Design 
+- ⚡ Interests: Web Development, Game Development, Cybersecurity, and UI/UX Design 
 
 ## 💡 Skills 
 - 💠 Languages: Python, C#, Java
